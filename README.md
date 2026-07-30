@@ -2,29 +2,45 @@
 
 
 
-\## Project Overview
+Interactive Tableau dashboard and Excel analysis completed during the \*\*Deloitte Australia Data Analytics Job Simulation\*\* on \*\*Forage\*\*.
 
 
 
-This repository showcases my work completed during the Deloitte Australia Data Analytics Job Simulation on Forage.
+\---
 
 
 
-\## Objectives
+\## 📌 Project Overview
 
 
 
-\- Analyze factory downtime data
-
-\- Build an interactive Tableau dashboard
-
-\- Classify employee equality scores using Excel
-
-\- Generate business insights from operational data
+This repository showcases my work completed as part of the Deloitte Australia Data Analytics Virtual Experience. The project involved analyzing operational and employee data using Tableau and Microsoft Excel to derive business insights and support data-driven decision-making.
 
 
 
-\## Tools Used
+\---
+
+
+
+\## 🎯 Objectives
+
+
+
+\- Analyze factory downtime across multiple manufacturing plants.
+
+\- Build an interactive Tableau dashboard for data visualization.
+
+\- Classify employee equality scores using Excel logical functions.
+
+\- Generate meaningful business insights from operational data.
+
+
+
+\---
+
+
+
+\## 🛠️ Tools \& Technologies
 
 
 
@@ -32,9 +48,17 @@ This repository showcases my work completed during the Deloitte Australia Data A
 
 \- Microsoft Excel
 
+\- Git
+
+\- GitHub
 
 
-\## Skills Demonstrated
+
+\---
+
+
+
+\## 💡 Skills Demonstrated
 
 
 
@@ -44,43 +68,63 @@ This repository showcases my work completed during the Deloitte Australia Data A
 
 \- Dashboard Development
 
-\- Excel Logical Functions
-
 \- Business Analytics
 
+\- Excel Logical Functions (IF, ABS)
+
+\- Interactive Dashboard Design
 
 
-\## Dashboard Preview
+
+\---
+
+
+
+\## 📊 Dashboard Preview
 
 
 
 \### Dashboard Overview
 
-!\[Overview](images/Dashboard\_Overview.png)
+
+
+!\[Dashboard Overview](images/Dashboard\_Overview.png)
 
 
 
 \### Filtered Dashboard
 
-!\[Filtered](images/Dashboard\_Filtered.png)
+
+
+!\[Filtered Dashboard](images/Dashboard\_Filtered.png)
 
 
 
-\## Tasks Completed
+\---
 
 
 
-\### Task 1
-
-\- Created an interactive Tableau dashboard.
-
-\- Implemented dashboard filtering using factory selection.
+\## ✅ Tasks Completed
 
 
 
-\### Task 2
+\### Task 1 – Tableau Dashboard
 
-\- Classified equality scores into:
+
+
+\- Created an interactive dashboard to analyze factory downtime.
+
+\- Visualized downtime by factory and device type.
+
+\- Implemented interactive filtering to explore factory-specific insights.
+
+
+
+\### Task 2 – Excel Equality Analysis
+
+
+
+\- Classified employee equality scores into:
 
 &#x20; - Fair
 
@@ -88,13 +132,91 @@ This repository showcases my work completed during the Deloitte Australia Data A
 
 &#x20; - Highly Discriminative
 
-\- Used Excel IF and ABS functions.
+\- Applied Excel formulas to automate classification.
+
+\- Performed basic business data analysis.
 
 
 
-\## Certificate
+\---
 
 
 
-Completed through the Deloitte Australia Data Analytics Virtual Experience on Forage.
+\## 📂 Project Structure
+
+
+
+```
+
+Deloitte-Data-Analytics-Virtual-Experience
+
+│
+
+├── README.md
+
+├── excel
+
+│   └── Equality\_Score\_Analysis.xlsx
+
+├── images
+
+│   ├── Dashboard\_Overview.png
+
+│   └── Dashboard\_Filtered.png
+
+└── tableau
+
+&#x20;   └── Factory\_Downtime\_Dashboard.twbx
+
+```
+
+
+
+\---
+
+
+
+\## 📈 Key Outcomes
+
+
+
+\- Built an interactive Tableau dashboard for operational analysis.
+
+\- Used Excel to classify equality scores efficiently.
+
+\- Improved practical skills in data visualization and business analytics.
+
+\- Strengthened Git and GitHub version control skills.
+
+
+
+\---
+
+
+
+\## 🏆 Certificate
+
+
+
+Completed through the \*\*Deloitte Australia Data Analytics Job Simulation\*\* on \*\*Forage\*\*.
+
+
+
+\---
+
+
+
+\## 👩‍💻 Author
+
+
+
+\*\*Vaishnavi P\*\*
+
+
+
+GitHub: https://github.com/Vaishnavip-21
+
+
+
+LinkedIn: \*www.linkedin.com/in/vaishnavip21\*
 
